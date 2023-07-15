@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>TOXIC_USERBOT 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://graph.org/file/c45600c9382d33b967407.jpg" alt="TOXIC_USERBOT">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>☢️ LEGENDERY OF TOXICBOT ☢️</b>
 </h6>
 
 <h3 align="center">
@@ -15,7 +15,7 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?style=social)
+![GitHub forks](https://img.shields.io/github/forksTOXIC-BOY-OP/TOXIC_USERBOT?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
 
 ![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=social&logo=github)
