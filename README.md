@@ -15,24 +15,24 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forksTOXIC-BOY-OP/TOXIC_USERBOT?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
+![GitHub forks](https://img.shields.io/github/forksgithub/forksTOXIC-BOY-OP/TOXIC_USERBOT?style=social)
+![GitHub Repo stars](https://img.shields.io/github/starsTOXIC-BOY-OP/TOXIC_USERBOT?style=social)
 
-![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=social&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/TOXIC-BOY-OP/TOXIC_USERBOT?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-Master-white?&style=social&logo=github)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=social&logo=github)
+![GitHub license](https://img.shields.io/github/license/TOXIC-BOY-OP/TOXIC_USERBOT?&style=social&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?&style=social&logo=hyper)
+![GitHub language count](https://img.shields.io/github/languages/count/TOXIC-BOY-OP/TOXIC_USERBOT?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/its_hellbot)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/DOSTO_KI_M3HFIL)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/TOXIC_CC_STORE)
 
 ------
 ## Deploy 🚀
-- [![Heroku](https://img.shields.io/badge/HellBot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
+- [![Heroku](https://img.shields.io/badge/TOXICBOT-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
 
 - [![Railway](https://img.shields.io/badge/HellBot-Deploy%20On%20Railway-black?style=for-the-badge&logo=railway)](#Deploy-on-Railway)
 
@@ -59,13 +59,13 @@
 - Every mandatory variables are listed [Here](#Variables).
 - Fork & Star this repo.
 - Some commands might not work properly on railway.
-- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@HellBot_Chat](https://t.me/hellbot_chat). Type `#railway` to get deploy guide.
+- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@DOSTO_KI_M3HFIL](https://t.me/DOSTO_KI_M3HFIL). Type `#railway` to get deploy guide.
 
 ------
 ## Deploy Locally
 
 - Clone the repo. 
-`git clone https://github.com/The-HellBot/Plugins-T.git`
+`git clone https://github.com/TOXIC-BOY-OP/Plugins-T.git`
 
 - Open Cloned Folder.
 `cd Plugins-T`
@@ -84,7 +84,7 @@
 
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
 
-- Finally Start Hêllẞø† By
+- Finally Start TOXIC-USERBOT By
 `bash start.sh`
 
 ------
@@ -98,7 +98,7 @@
 - `DATABASE_URL`  =  A Postgresql database url.
 
 ------
-## HellBot Session
+## Toxicbot Session
 
 ### Repl
 - Open Repl Link.
@@ -164,14 +164,14 @@
 # License
 
 <p align="center">
-    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="HellBot License">
+    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="TOXIC-BOY-OP License">
 </p>
 
 <h4 align="center">
-    Copyright (C) 2022 <a href="https://github.com/The-HellBot">The-HellBot</a>
+    Copyright (C) 2022 <a href="https://github.com/TOXIC-BOY-OP">TOXICUSERBOT</a>
 </h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [TOXIC-USERBOT](github/forksTOXIC-BOY-OP/TOXIC_USERBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -186,6 +186,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 All the Dependencies
-- 💖 [Team HellBot](https://github.com/The-HellBot)
+- 💖 [Team ToxicBot (https://github/TOXIC-BOY-OP)
 
 ------
